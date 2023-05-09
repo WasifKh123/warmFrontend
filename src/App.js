@@ -17,7 +17,7 @@ function App() {
     //   </BrowserRouter>
     // </div>
     <div className="wrapper">
-      {/* <Image/> */}
+      <Image/>
       {/* <MinistryofHealth/>
       <Paramedics/> */}
     </div>
