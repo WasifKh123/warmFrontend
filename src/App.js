@@ -18,7 +18,6 @@ function App() {
     // </div>
     <div className="wrapper">
       <Image/>
-      
       {/* <MinistryofHealth/>
       <Paramedics/> */}
     </div>
